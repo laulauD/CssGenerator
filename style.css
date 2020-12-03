@@ -1,0 +1,16 @@
+.my_sprite {
+    background-image: url(laurine.png);
+    background-repeat: no-repeat;
+    display: block;
+    background-color:pink;
+  }
+#img1 {
+    width: 500px;
+    height: 500px;
+    background-position: 0px 0px;
+  }
+#img2 {
+    width: 500px;
+    height: 500px;
+    background-position: 0px -500px;
+  }
